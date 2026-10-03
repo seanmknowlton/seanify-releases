@@ -1,0 +1,34 @@
+{
+  "build": 1791006700399,
+  "shellApi": 5,
+  "version": "0.1.36",
+  "dir": "bundles/1791006700399",
+  "files": [
+    {
+      "path": "assets/dash.all.min-Cwm8JF7h.js",
+      "sha256": "4123dcfe5790b15e4afefde4f65d2a5cd3b43f730ff7ee1cfef1ae15629399f2",
+      "size": 822543
+    },
+    {
+      "path": "assets/index-CWL9-6Ds.js",
+      "sha256": "efe8c4d94e520744052b85acc0f1d7ad49c88fa6af34bac43df9ff668748cb1e",
+      "size": 1678280
+    },
+    {
+      "path": "assets/index-gUi4WoYm.css",
+      "sha256": "8f0aae2c11a7f2da59dedd54e7bed1eec3727bb43ebeaed6a6be6279f619f5ed",
+      "size": 86229
+    },
+    {
+      "path": "bundle.json",
+      "sha256": "e578bdf61fab6168e0f555711a3c2a37db1cfada1b52894f81fccd580674067c",
+      "size": 55
+    },
+    {
+      "path": "index.html",
+      "sha256": "73f60c64a7c22a6c7b3fe765a889d052b64394d5c818fbe6868711f148bec152",
+      "size": 663
+    }
+  ],
+  "shippedAt": "2026-10-03T05:51:40.617Z"
+}
