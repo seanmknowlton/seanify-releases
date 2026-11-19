@@ -1,0 +1,74 @@
+{
+  "build": 1795071552596,
+  "shellApi": 5,
+  "version": "0.1.49",
+  "dir": "bundles/1795071552596",
+  "files": [
+    {
+      "path": "assets/App-DxlE3YOx.js",
+      "sha256": "77105297a3aa49fa649534b3682b6ddde338a39abf24005231679efb53f534e9",
+      "size": 1912928
+    },
+    {
+      "path": "assets/App-hxHeYbsZ.css",
+      "sha256": "fc9b052b2c025dfa1fd320e009c0d201806182b5afec8c13537c763a1b155d18",
+      "size": 47721
+    },
+    {
+      "path": "assets/bell-4YOg-7wM.wav",
+      "sha256": "4014c3b275d3e7050dc47f73150657d2a0efe6d4ecfc0045cc5b8aa5896cdc8c",
+      "size": 127410
+    },
+    {
+      "path": "assets/close-C8dr-t-n.wav",
+      "sha256": "c2adc4ac0516f3d083becabdec1ee4b0dd6388fdfd1c74e949e8531cd3817e03",
+      "size": 204210
+    },
+    {
+      "path": "assets/dash.all.min-Cwm8JF7h.js",
+      "sha256": "4123dcfe5790b15e4afefde4f65d2a5cd3b43f730ff7ee1cfef1ae15629399f2",
+      "size": 822543
+    },
+    {
+      "path": "assets/gong-CMQiw-fP.wav",
+      "sha256": "700fa454bef1b9b3d337a75135559f390262c01bca6f01b48e602d12b13912d2",
+      "size": 325810
+    },
+    {
+      "path": "assets/index-B5r2B-o6.js",
+      "sha256": "7e3d18347120a73cb07ca8c98013be2c382ce3a9e3f910b4e3aa108c405b563b",
+      "size": 193644
+    },
+    {
+      "path": "assets/index-C5Mug4-V.css",
+      "sha256": "080db701d3c81383b7c010518e7fbbe4412053113f79e0a25093d040b36e824b",
+      "size": 108886
+    },
+    {
+      "path": "assets/machine-DBKVHV9o.js",
+      "sha256": "a04dbf1739aa7a0345fbbbbbebcdb96042d81f195a31888998dd66d3e65a8741",
+      "size": 2713
+    },
+    {
+      "path": "assets/Mini-B2E2OFCQ.js",
+      "sha256": "3f450ae9549b53df85640d899804f76aaeea42b416834760eb09643b29948265",
+      "size": 5532
+    },
+    {
+      "path": "assets/open-CtrfyYdR.wav",
+      "sha256": "7aea2af21c5e33efed4d200a90ee8cb3b71c1534a176cbfda53f8b5e234fbb5b",
+      "size": 191410
+    },
+    {
+      "path": "bundle.json",
+      "sha256": "b57d65d392ba6bb884daae2e3d74774ec3f4bd8576f8e51cc6ee2eb3c341e4b1",
+      "size": 55
+    },
+    {
+      "path": "index.html",
+      "sha256": "eff831cc28b2c6ed0fb33696749b1f46658e934c5d1432421cb043f456fbded5",
+      "size": 663
+    }
+  ],
+  "shippedAt": "2026-11-19T06:59:12.824Z"
+}
